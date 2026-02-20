@@ -1,0 +1,8 @@
+# Allow all search engines
+User-agent: *
+
+# Allow everything
+Disallow:
+
+# Sitemap link (if you have one)
+Sitemap: https://www.shreesanwariyacomputers.com/sitemap.xml
